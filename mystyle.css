@@ -3,3 +3,4 @@ h2{ color:black; }
 h3{ color:pink;  }
 
 p.sample1 {border: double 10px #080868;}
+p.sample2 {border: inset 10px #ff0000;}
